@@ -1,3 +1,3 @@
 # repository-first
 This is my first repository
-Authore - Sharayu Kamble
+Authore - Sharayu Mahadev Kamble
